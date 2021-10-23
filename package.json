@@ -1,0 +1,22 @@
+{
+  "name": "new-potofolio",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "typed.js": "^2.0.12",
+    "vue": "^3.2.16",
+    "vue-router": "^4.0.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "tailwindcss": "^2.2.16",
+    "vite": "^2.6.4",
+    "vite-plugin-pwa": "^0.11.3"
+  }
+}
