@@ -8,7 +8,7 @@
             <li class="m-4 mr-7 text-white" @click="sw = true"><router-link class="border-b-2 border-dashed border-white text-2xl hover:border-red-500"  to="/skill">Skill</router-link></li>
             <li class="m-4 mr-7 text-white" @click="sw = true"><router-link class="border-b-2 border-dashed border-white text-2xl hover:border-red-500"  to="/Project">Project</router-link></li>
             <li class="m-4 mr-7 text-white" @click="sw = true"><router-link class="border-b-2 border-dashed border-white text-2xl hover:border-red-500"  to="/contact">Contact</router-link></li>
-            <li class="m-4 text-red-500 text-white" @click="sw = true"><font class="border-b-2 border-dashed border-red-500 text-2xl">Close X</font></li>
+            <li class="m-4 text-red-500 text-white" @click="sw = true"><font class="border-b-2 border-dashed border-red-500 text-2xl cursor-pointer">Close X</font></li>
         </ul>
         </div>
   </div>
