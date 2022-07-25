@@ -100,6 +100,30 @@ export default {
                     jud:'Search text youtube video',
                     image:'/assets/image/submisiontextvideo.png',
                     tools:['Vuejs','vuetify UI']
+                },{
+                    jud:'Search anime app',
+                    image:'/assets/image/anime-search.PNG',
+                    tools:['VueJs','Bootstarp']
+                },{
+                    jud:'Simple Quiz app',
+                    image:'/assets/image/quizz-app.png',
+                    tools:['Vuejs','Firestore','Tailwind']
+                },{
+                    jud:'Wireframe Quiz app',
+                    image:'/assets/image/wireframe-quizz.png',
+                    tools:['Figma']
+                },{
+                    jud:'Simple Scheduling System',
+                    image:'/assets/image/scheduling.png',
+                    tools:['Laravel','Vuejs']
+                },{
+                    jud:'Dashboard Design 1',
+                    image:'/assets/image/dashboard-design.PNG',
+                    tools:['Boostrap']
+                },{
+                    jud:'Dashboard Design 2',
+                    image:'/assets/image/daahboard-design-2.PNG',
+                    tools:['Boostrap']
                 }
             ]
         }
