@@ -117,6 +117,10 @@ export default {
                     image:'/assets/image/scheduling.png',
                     tools:['Laravel','Vuejs']
                 },{
+                    jud:'Garma Company profile',
+                    image:'/assets/image/garma-design.PNG',
+                    tools:['Nextjs','Firestore','Tailwind']
+                },{
                     jud:'Dashboard Design 1',
                     image:'/assets/image/dashboard-design.PNG',
                     tools:['Boostrap']
